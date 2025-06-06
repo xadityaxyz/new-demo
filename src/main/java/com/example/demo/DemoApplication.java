@@ -13,7 +13,7 @@ public class DemoApplication {
 	
 	public static String callIng() {
 		
-		return "home home";
+		return "checkmarx cxflow";
 	}
 	
 
